@@ -23,6 +23,10 @@ terraform {
             source = "hashicorp/random"
             version = "3.4.3"
         }
+        tfe = {
+      source = "hashicorp/tfe"
+      version = "0.41.0"
+    }
     }
 }
     EOF

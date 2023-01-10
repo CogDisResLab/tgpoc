@@ -7,10 +7,10 @@ resource "random_uuid" "workspace02" {
 }
 
 output "workspace01_pet" {
-    value = random_pet.workspace02
+  value = random_pet.workspace02
 }
 
 output "workspace01_uuid" {
-    value = random_uuid.workspace02
+  value = random_uuid.workspace02
 }
 
