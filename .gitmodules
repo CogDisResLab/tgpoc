@@ -1,3 +1,6 @@
 [submodule "Workspace-01"]
 	path = Workspace-01
 	url = https://github.com/CogDisResLab/Workspace-01
+[submodule "Workspace-02"]
+	path = Workspace-02
+	url = https://github.com/CogDisResLab/Workspace-02
